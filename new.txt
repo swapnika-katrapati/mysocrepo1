@@ -1,2 +1,2 @@
 this is the line of new document
-
+this is the second line of the document
